@@ -15,3 +15,7 @@
 - eltároljuk mint egy új verzió:
     > git commit -m "first commit"
 ## Összekapcsolás a távoli repoval
+- GitHub repo létrehozása
+
+- összekapcsolási parancs:
+    > git remote add origin https://token@github.com/FDani04/JatekVizsga.git
