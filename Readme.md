@@ -25,5 +25,3 @@
 
 - további verziók esestén: 
     > git push
-
-    asd
