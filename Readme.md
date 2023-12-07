@@ -19,3 +19,9 @@
 
 - összekapcsolási parancs:
     > git remote add origin https://token@github.com/FDani04/JatekVizsga.git
+
+- meg kell mondani a legelső alkalommal, hogy melyi ágat használjuk és feltesszük a legújabb verziónkat: 
+    > git push -u origin master
+
+- további verziók esestén: 
+    > git push
